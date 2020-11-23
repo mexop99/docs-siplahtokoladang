@@ -2,11 +2,13 @@
 
 ## Dokumentasi
 
-| User					| Link												|
+| Nama Dokumen					| Link												|
 | ---------------------	| ------------------------------------------------- |
-| Penjual 				| [download](https://bit.ly/newDocPenjual)			|
-| Pembeli				| [download](https://bit.ly/newDocPembeliV2)		|
-| Download Semua Materi | [download](http://bit.ly/repoSipl4dDoc)			|
+| Penjual 				      | [Download](https://bit.ly/newDocPenjual)			|
+| Pembeli               |[Download](https://bit.ly/newDocPembeliV2)		|
+| Download Semua Materi | [Download](http://bit.ly/repoSipl4dDoc)			|
+| Form Excel Penarikan Dana | [Download](https://github.com/mexop99/docs-siplahtokoladang/raw/master/MsExcel/Draft%20Penarikan%20Dana%20SIPLah%20Toko%20Ladang.xlsx)  |
+| Surat Pembatalan Transaksi  | [Download](https://github.com/mexop99/docs-siplahtokoladang/raw/master/template_surat/surat_pengajuan_pembatalan_PO.docx)  |
 
 ---
 
