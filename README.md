@@ -13,7 +13,8 @@
 ## Template Surat
 ```
 kami menyediakan beberapa template surat 
-yang dapat digunakan untuk pengajuan /permonan ke SIPLah Toko ladang
+yang dapat digunakan untuk pengajuan atau
+permonan ke SIPLah Toko ladang
 ```
 
 ### Surat Pembatalan
